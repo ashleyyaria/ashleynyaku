@@ -7,7 +7,6 @@ I'm a cybersecurity student focused on building practical skills in networking a
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
