@@ -9,4 +9,4 @@ I'm a cybersecurity student focused on building practical skills in networking a
 
 | Skill                                                     | Associated Project                                                                         |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Packet Analysis, DNS, TCP/IP, and Network Troubleshooting | <a href="https://github.com/ashleyyaria/Network-Protocol-Analysis">Wireshark Protocol Analysis</a> |
+| Packet Analysis, DNS, TCP/IP, and Network Troubleshooting | <a href="https://github.com/ashleyyaria/Network-Protocol-Analysis">Network Protocol Analysis</a> |
